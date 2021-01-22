@@ -1,0 +1,19 @@
+{
+  "name": "matchmakers-api",
+  "version": "1.0.0",
+  "description": "api server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trvslhlt/matchmakers-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trvslhlt/matchmakers-api/issues"
+  },
+  "homepage": "https://github.com/trvslhlt/matchmakers-api#readme"
+}
